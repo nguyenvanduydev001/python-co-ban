@@ -27,7 +27,7 @@ Repository này chứa các bài giải cho "Bài tập Python Cơ bản 1". T�
 
 1.  Đảm bảo bạn đã cài đặt Python (phiên bản 3.x trở lên).
 2.  Mở Terminal (hoặc Command Prompt/Git Bash).
-3.  Di chuyển đến thư mục chứa file code (ví dụ: `python-co-ban`).
+3.  Di chuyển đến thư mục chứa file code.
 4.  Chạy lệnh:
     ```bash
     python Python_coban_1.py
