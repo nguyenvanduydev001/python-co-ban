@@ -6,7 +6,7 @@
 ## Mô tả
 Repository này chứa các bài giải cho "Bài tập Python Cơ bản 1". Tất cả các hàm giải bài tập được viết trong file `Python_coban_1.py` (hoặc tên file tương ứng của bạn).
 
-## Danh sách đề bài
+## Danh sách bài tập
 
 1.  **Viết hoa chữ cái đầu mỗi từ:** Viết chương trình đổi các từ ở đầu câu sang chữ hoa và những từ không phải đầu câu sang chữ thường.
     * *Ví dụ:* `nGuYen vAN a` → `Nguyen Van A`
