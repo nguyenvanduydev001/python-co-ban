@@ -1,7 +1,7 @@
 import pandas as pd
 
 du_lieu = {
-    'Name': ['An', 'Binh', 'Chi', 'Dung', 'Hai', 'Hung', 'Linh', 'Mai', 'Son', 'Trang'],
+    'Name': ['A', 'Binh', 'Chi', 'Dung', 'Hai', 'Uy', 'Linh', 'Việt', 'Son', 'Duy'],
     'Age': [20, 21, 19, 22, 20, 21, 19, 22, 20, 21],
     'Gender': ['M', 'M', 'F', 'M', 'M', 'M', 'F', 'F', 'M', 'F'],
     'Score': [8.5, 6.0, 4.5, 7.0, 9.0, 5.5, 3.0, 10.0, 2.5, 6.5]
