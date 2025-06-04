@@ -3,7 +3,7 @@ import pandas as pd
 
 # Tạo dữ liệu danh sách sinh viên dưới dạng từ điển (dictionary)
 du_lieu = {
-    'Name': ['A', 'Binh', 'Uy', 'Dung', 'Hai', 'Hung', 'Duy', 'Mai', 'Son', 'Việt'],
+    'Name': ['A', 'Binh', 'Phong', 'Dung', 'Hai', 'Uy', 'Linh', 'Mai', 'Son', 'Duy'],
     'Age': [20, 21, 19, 22, 20, 21, 19, 22, 20, 21],
     'Gender': ['M', 'M', 'F', 'M', 'M', 'M', 'F', 'F', 'M', 'F'],
     'Score': [8.5, 6.0, 4.5, 7.0, 4.0, 5.5, 3.0, 10.0, 8.5, 6.5]
