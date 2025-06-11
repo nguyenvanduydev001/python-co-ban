@@ -1,0 +1,12 @@
+# Bỏ môi trường ảo
+venv/
+
+# Bỏ file tạm hoặc cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Bỏ file Excel đầu ra
+*.xlsx
